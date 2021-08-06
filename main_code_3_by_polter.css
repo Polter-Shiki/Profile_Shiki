@@ -1684,10 +1684,10 @@
   }
   
   .p-achievements.p-profiles-index .c-franchises .b-badge[data-progress='100']::after {
-    color: #ffcf22;
+    color: #2229ff;
     width: calc(100% - 10px) !important;
     height: calc(100% - 15px) !important;
-    box-shadow: 0 0 2px 2px #ffcf2280 inset;
+    box-shadow: 0 0 2px 2px #2229ff80 inset;
     border-radius: 9px;
     line-height: 327px;
   }
@@ -1776,13 +1776,13 @@ body.p-achievements.p-profiles .b-options-floated {
     margin: 0 auto;
     height: 15px;
     padding: 11px 7px 6px;
-    background: #131010c7;
-    color: #887146;
+    background: #101013c7;
+    color: #464688;
     box-sizing: content-box;
     border-radius: 50%/ 33px 33px 0 0;
 }
 body.p-achievements.p-profiles .b-options-floated a {
-    color: #c7a15b;
+    color: #5b66c7;
         padding: 11px 28px 6px;
     border-radius: 50%/ 30px 30px 0 0;
 }
@@ -1794,12 +1794,12 @@ body.p-achievements.p-profiles .b-options-floated a {
     width: calc(100% - 4px);
     text-align: center;
     display: block !important;
-    color: #ffe1a7;
+    color: #a7abff;
     margin-bottom: 13px;
     background: linear-gradient(to right, rgba(53, 22, 0, 0.6), rgba(115, 67, 6, 0.9), rgba(53, 20, 0, 0.6));
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
     border-radius: 15px;
-    border: 2px solid #38291f;
+    border: 2px solid #1f2238;
   }
   
   .b-badge:hover:before, .b-badge:before {
@@ -1844,53 +1844,53 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   .c-genres .block2 .cc-achievements .b-achievement {
-    background: rgba(99, 67, 26, 0.5);
+    background: rgba(26, 35, 99, 0.5);
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .title {
-    color: #f3eabf;
+    color: #bfc0f3;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .percent {
-    color: #ffed8d;
+    color: #9a8dff;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .hint {
-    color: #f9c86d !important;
+    color: #6d76f9 !important;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .progress {
-    background: rgba(29, 24, 6, 0.8);
-    border: 0.5px solid #382910;
+    background: rgba(6, 6, 29, 0.8);
+    border: 0.5px solid #121038;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .progress .bar {
-    background: #eab437;
+    background: #3761ea;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .text {
-    color: #decc86;
+    color: #868cde;
   }
   
   .c-genres .block2 .b-achievement img {
-    box-shadow: 0 0 2px 1px #e4ba54;
+    box-shadow: 0 0 2px 1px #5456e4;
   }
   
   body.p-achievements.p-profiles::-webkit-scrollbar-thumb {
-    background: #714813 !important;
+    background: #131971 !important;
   }
   
   body.p-achievements.p-profiles::-webkit-scrollbar-track {
-    background: #150d03 !important;
+    background: #030415 !important;
   }
   
   body.p-achievements.p-profiles .b-to-top .arrow:before {
-    color: rgba(76, 56, 25, 0.88);
-    text-shadow: 0px 0px 1px rgba(90, 74, 30, 0.98);
+    color: rgba(26, 25, 76, 0.88);
+    text-shadow: 0px 0px 1px rgba(32, 30, 90, 0.98);
   }
   
   body.p-achievements.p-profiles .b-to-top .slide:before {
-    background: rgba(53, 43, 25, 0.4);
+    background: rgba(26, 25, 53, 0.4);
   }
   
   body.p-achievements.p-profiles:after {
@@ -1908,7 +1908,7 @@ body.p-achievements.p-profiles .b-options-floated a {
   
   body.p-achievements.p-profiles .block2 .b-nothing_here {
     line-height: 40px !important;
-    color: #75662f !important;
+    color: #2f3575 !important;
     text-align: center;
   }
   
@@ -1924,7 +1924,7 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   body.p-achievements.p-profiles header.head h2, body.p-achievements.p-profiles header.head h1 {
-    color: #fff7e8 !important;
+    color: #e8e8ff !important;
   }
   
   body.p-achievements.p-profiles input.ac_input.ac_loading {
@@ -1934,30 +1934,30 @@ body.p-achievements.p-profiles .b-options-floated a {
   
   /* Chrome/Opera/Safari */
   body.p-achievements.p-profiles ::-webkit-input-placeholder {
-    color: #827160 !important;
+    color: #606482 !important;
     transition: 0.5s ease-out;
   }
   
   /* Firefox 19+ */
   body.p-achievements.p-profiles ::-moz-placeholder {
     transition: 0.5s ease-out;
-    color: #827160 !important;
+    color: #606182 !important;
   }
   
   /* IE 10+ */
   body.p-achievements.p-profiles :-ms-input-placeholder {
-    color: #827160 !important;
+    color: #606182 !important;
     transition: 0.5s ease-out;
   }
   
   /* Firefox 18- */
   body.p-achievements.p-profiles :-moz-placeholder {
-    color: #827160 !important;
+    color: #616082 !important;
     transition: 0.5s ease-out;
   }
   
   body.p-achievements.p-profiles .headline, body.p-achievements.p-profiles .subheadline {
-    background: linear-gradient(to right, rgba(53, 22, 0, 0.6), rgba(115, 67, 6, 0.9), rgba(53, 20, 0, 0.6));
+    background: linear-gradient(to right, rgba(1, 0, 53, 0.6), rgba(10, 6, 115, 0.9), rgba(0, 0, 53, 0.6));
     color: #ffe1a7 !important;
     
     position: relative;
@@ -1976,7 +1976,7 @@ body.p-achievements.p-profiles .b-options-floated a {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #efc86e !important;
+    color: #746eef !important;
   }
   
   body.p-achievements.p-profiles .headline:before, body.p-achievements.p-profiles .subheadline:before {

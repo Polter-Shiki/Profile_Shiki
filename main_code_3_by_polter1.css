@@ -1782,7 +1782,7 @@ body.p-achievements.p-profiles .b-options-floated {
     border-radius: 50%/ 33px 33px 0 0;
 }
 body.p-achievements.p-profiles .b-options-floated a {
-    color: #c7a15b;
+    color: #ffffff;
         padding: 11px 28px 6px;
     border-radius: 50%/ 30px 30px 0 0;
 }
@@ -1894,7 +1894,7 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   body.p-achievements.p-profiles:after {
-    background-image: url(https://w.wallha.com/ws/5/IV7GsfQy.jpg);
+      background-image: url(https://w.wallha.com/ws/5/IV7GsfQy.jpg);
   }
   
   body.p-achievements.p-profiles .l-page {

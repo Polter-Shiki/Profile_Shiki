@@ -1893,6 +1893,10 @@ body.p-achievements.p-profiles .b-options-floated a {
     background: rgba(26, 25, 53, 0.4);
   }
   
+  body.p-achievements.p-profiles:after {
+    background-image: url(https://w.wallha.com/ws/5/IV7GsfQy.jpg);
+  }
+  
   body.p-achievements.p-profiles .l-page {
     background: transparent;
     box-shadow: none !important;

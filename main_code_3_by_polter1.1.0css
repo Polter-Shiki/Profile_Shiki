@@ -1782,7 +1782,7 @@ body.p-achievements.p-profiles .b-options-floated {
     border-radius: 50%/ 33px 33px 0 0;
 }
 body.p-achievements.p-profiles .b-options-floated a {
-    color: #374991;
+    color: #c7a15b;
         padding: 11px 28px 6px;
     border-radius: 50%/ 30px 30px 0 0;
 }
@@ -1794,12 +1794,12 @@ body.p-achievements.p-profiles .b-options-floated a {
     width: calc(100% - 4px);
     text-align: center;
     display: block !important;
-    color: #ff0000;
+    color: #ffe1a7;
     margin-bottom: 13px;
-    background: linear-gradient(to right, rgba(255, 0, 0, 0.6), rgba(255, 0, 0, 0.9), rgba(255, 0, 0, 0.6));
+    background: linear-gradient(to right, rgba(53, 22, 0, 0.6), rgba(115, 67, 6, 0.9), rgba(53, 20, 0, 0.6));
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
     border-radius: 15px;
-    border: 2px solid #ff0000;
+    border: 2px solid #38291f;
   }
   
   .b-badge:hover:before, .b-badge:before {
@@ -1811,40 +1811,40 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   .block2 .cc-achievements .b-achievement {
-    background: rgba(255, 0, 0, 0.5);
+    background: rgba(23, 76, 32, 0.5);
   }
   
   .block2 .cc-achievements .b-achievement .title {
-    color: #ff0000;
+    color: #cce0d1;
   }
   
   .block2 .cc-achievements .b-achievement .percent {
-    color: #ff0000;
+    color: #b9f3b6;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .hint {
-    color: #ff0000 !important;
+    color: #98da9b !important;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .progress {
-    background: rgba(255, 0, 0, 0.8);
-    border: 0.5px solid #ff0000;
+    background: rgba(10, 35, 13, 0.8);
+    border: 0.5px solid #152d0f;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .progress .bar {
-    background: #ff0000;
+    background: #57bb5f;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .text {
-    color: #ff0000;
+    color: #7cc59a;
   }
   
   .block2 .b-achievement img {
-    box-shadow: 0 0 2px 1px #ff0000;
+    box-shadow: 0 0 2px 1px #54e454;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement {
-    background: rgba(255, 0, 0, 0.5);
+    background: rgba(99, 67, 26, 0.5);
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .title {
@@ -1894,7 +1894,7 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   body.p-achievements.p-profiles:after {
-      background-image: url(https://w.wallha.com/ws/5/IV7GsfQy.jpg);
+    background-image: url(https://w.wallha.com/ws/5/IV7GsfQy.jpg);
   }
   
   body.p-achievements.p-profiles .l-page {
@@ -1987,7 +1987,7 @@ body.p-achievements.p-profiles .b-options-floated a {
     left: 10px;
   }
   
-   body.p-achievements.p-profiles .l-footer:before {
+  body.p-achievements.p-profiles .l-footer:before {
     content: "Redesigned by ×Polter×" !important;
     color: #8bbdd6;
   }

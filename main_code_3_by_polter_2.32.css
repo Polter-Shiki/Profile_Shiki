@@ -1848,32 +1848,32 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .title {
-    color: #154977;
+    color: #c3d8e8;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .percent {
-    color: #ffed8d;
+    color: #71c4e4;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .hint {
-    color: #f9c86d !important;
+    color: #71c4e4 !important;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .progress {
-    background: rgba(29, 24, 6, 0.8);
-    border: 0.5px solid #382910;
+    background: rgba(12, 59, 103, 0.8);
+    border: 0.5px solid #154977;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .progress .bar {
-    background: #eab437;
+    background: #71c4e4;
   }
   
   .c-genres .block2 .cc-achievements .b-achievement .c-about .text {
-    color: #decc86;
+    color: #8bbdd6;
   }
   
   .c-genres .block2 .b-achievement img {
-    box-shadow: 0 0 2px 1px #e4ba54;
+    box-shadow: 0 0 2px 1px #71c4e4;
   }
   
   body.p-achievements.p-profiles::-webkit-scrollbar-thumb {

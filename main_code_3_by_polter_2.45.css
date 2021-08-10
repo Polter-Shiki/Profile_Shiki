@@ -1916,11 +1916,12 @@ body.p-achievements.p-profiles .b-options-floated a {
   
   body.p-achievements.p-profiles input {
     background: transparent;
-    color: #d4c8b2;
+    color: #c3d8e8;
   }
   
   body.p-achievements.p-profiles.p-profiles h1:after {
     content: ": Достижения";
+    color: #8bbdd6;
   }
   
   body.p-achievements.p-profiles header.head h2, body.p-achievements.p-profiles header.head h1 {

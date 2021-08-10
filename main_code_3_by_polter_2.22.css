@@ -1815,15 +1815,15 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   .block2 .cc-achievements .b-achievement .title {
-    color: #71c4e4;
+    color: #8bbdd6;
   }
   
   .block2 .cc-achievements .b-achievement .percent {
-    color: #1367a0;
+    color: #71c4e4;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .hint {
-    color: #1367a0 !important;
+    color: #71c4e4 !important;
   }
   
   .block2 .cc-achievements .b-achievement .c-about .progress {

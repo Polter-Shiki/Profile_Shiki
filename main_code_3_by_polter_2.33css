@@ -1877,7 +1877,7 @@ body.p-achievements.p-profiles .b-options-floated a {
   }
   
   body.p-achievements.p-profiles::-webkit-scrollbar-thumb {
-    background: #714813 !important;
+    background: #ff0000 !important;
   }
   
   body.p-achievements.p-profiles::-webkit-scrollbar-track {

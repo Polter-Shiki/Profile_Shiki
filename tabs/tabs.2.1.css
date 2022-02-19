@@ -56,7 +56,7 @@
   margin: 4px;
   border: 2px solid;
   border-radius: 40px;
-  color: #ff0000;
+  color: #cecdf2;
   font-weight: bold;
   line-height: 24px;
   text-align: center;
@@ -71,7 +71,7 @@
   background: hsla(var(--c-tab) var(--l-background) / 16%);
 }
 .use-tabs > [data-dynamic].active {
-  color: #0088ff;
+  color: #ff0000;
   background: hsla(var(--c-tab) var(--l-background) / 12%);
 }
 

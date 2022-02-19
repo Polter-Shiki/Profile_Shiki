@@ -178,7 +178,7 @@
   border-radius: 0;
 }
 .use-tabs.--tabline > [data-dynamic].active {
-  border-bottom-color: #791b1b;
+  border-bottom-color: #de36f0;
 }
 
 

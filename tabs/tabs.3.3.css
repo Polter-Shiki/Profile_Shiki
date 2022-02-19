@@ -71,7 +71,7 @@
   background: hsla(var(--c-tab) var(--l-background) / 16%);
 }
 .use-tabs > [data-dynamic].active {
-  color: #cecdf2;
+  color: #36a5f0;
   background: hsla(var(--c-tab) var(--l-background) / 12%);
 }
 

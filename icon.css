@@ -1,0 +1,102 @@
+/* Я даже не представляю почему это работает/*
+:root {
+	--font-icons-family: 'Material Icons';
+	--font-icons-size-m: 20px
+}
+
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url(https://fonts.gstatic.com/s/materialicons/v118/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf) format("truetype"), url(https://fonts.gstatic.com/s/materialicons/v118/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format("woff2")
+}
+
+[data-icon]::before,
+.p-animes-show .c-info-right .watch-online .b-link_button::before,
+.p-mangas-show .c-info-right .watch-online .b-link_button::before,
+.p-ranobe-show .c-info-right .watch-online .b-link_button::before,
+.b-contest_match .prev-match::before,
+.b-contest_match .next-match::before,
+.p-profiles .profile-head .c-brief header h1.aliases::before,
+.p-profiles-favorites .cc-favourites.sortable .b-catalog_entry::before,
+.p-user_history-index .history-page .history-interval p .destroy::before {
+	display: block;
+	flex-shrink: 0;
+	width: 1em !important;
+	font-family: var(--font-icons-family) !important;
+	font-size: var(--font-icons-size-m) !important;
+	font-style: normal;
+	font-weight: 400 !important;
+	line-height: 1 !important;
+	letter-spacing: normal;
+	text-transform: none;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	font-feature-settings: 'liga';
+	overflow: hidden
+}
+
+[data-icon]::before {
+	content: attr(data-icon);
+	display: inline-block;
+	vertical-align: top;
+	flex-shrink: 0;
+	margin-right: 8px;
+	margin-left: -4px;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden
+}
+
+@media (min-width: 768px) {
+	.l-top_menu-v2 .icon-anime_list::before,
+	.l-top_menu-v2 .icon-manga_list::before,
+	.l-top_menu-v2 .icon-characters::before {
+		height: auto;
+		margin: 0
+	}
+}
+
+@media (min-width: 1025px) {
+	.l-top_menu-v2 .submenu>a.icon-mail:hover span.unread span {
+		color: inherit
+	}
+}
+
+.l-top_menu-v2 .icon-avatar img {
+	width: 24px;
+	height: 24px;
+	margin: 0;
+	border-radius: var(--border-round, 50%)
+}
+
+.l-top_menu-v2 .icon-anime_list::before,
+.l-top_menu-v2 .icon-manga_list::before,
+.l-top_menu-v2 .icon-characters::before {
+	background: none
+}
+
+@media (max-width: 767px) {
+	.l-top_menu-v2 .icon-anime_list::before,
+	.l-top_menu-v2 .icon-manga_list::before,
+	.l-top_menu-v2 .icon-characters::before {
+		height: auto;
+		margin: 0 16px 0 0
+	}
+}
+
+@media (min-width: 768px) {
+	.l-top_menu-v2 .menu-icon:hover,
+	.l-top_menu-v2 .menu-dropdown:hover>span {
+		background-color: var(--color-menu-background-hover)
+	}
+}
+
+[data-icon]::before {
+    vertical-align: sub;
+    margin-left: -30px;
+}
